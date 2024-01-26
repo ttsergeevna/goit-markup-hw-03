@@ -149,6 +149,7 @@ margin: 0 auto;
     letter-spacing: -0.04em;
 
     border:none;
+    border-radius: 4px;
     padding: 16px 32px;
     margin: 0 auto;
 }
